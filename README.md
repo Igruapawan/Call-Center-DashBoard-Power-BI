@@ -27,7 +27,9 @@ Power BI Desktop installed on your machine.
 Access to the call center data sources.
 Screenshots
 
+![Screenshot 2024-03-29 003303](https://github.com/Igruapawan/Call-Center-DashBoard-Power-BI/assets/98211165/99b7268c-cacc-4622-a378-b6bee0fb836d)
+
 Contributing
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-License
+
